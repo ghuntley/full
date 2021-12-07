@@ -1,0 +1,1 @@
+FROM gitpod/workspace-full:commit-8fc141dbdd92030a435ead06617c6d37651d8312
