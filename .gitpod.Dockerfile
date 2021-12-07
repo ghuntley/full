@@ -1,1 +1,2 @@
-FROM gitpod/workspace-full:commit-8fc141dbdd92030a435ead06617c6d37651d8312
+FROM gitpod/workspace-full:commit-5a06e6a16d202988f4a2d6e08b9a81b9aee65451
+
